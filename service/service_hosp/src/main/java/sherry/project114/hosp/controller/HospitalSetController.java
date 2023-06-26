@@ -145,6 +145,7 @@ public class HospitalSetController {
 
     @ApiOperation(value = "开通医院设置")
     @PostMapping("saveHospset")
+    //@ApiParam可以用于描述接口中的参数信息，包括参数名、类型、描述等。
     public R saveHospset(@ApiParam(name = "hospitalSet", value = "医院设置信息") @RequestBody HospitalSet hospitalSet) {
 
         hospitalSet.setStatus(1);//0-医院权限锁定  1-正常
@@ -206,6 +207,7 @@ public class HospitalSetController {
      * @return { code:xx,message:'',success:'',data:{item: {医院设置对象} } }
      */
     @GetMapping("{id}")
+    //@PathVariable将传入的实参绑定到形参上
     public R findById(@PathVariable Long id) {
         HospitalSet hospitalSet = hospitalSetService.getById(id);
 
