@@ -1,4 +1,4 @@
-package sherry.project114.mapper;
+package sherry.project114.hosp.mapper;
 
 /**
  * @Description:

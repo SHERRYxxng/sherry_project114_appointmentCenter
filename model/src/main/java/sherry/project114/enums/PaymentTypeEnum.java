@@ -1,4 +1,4 @@
-package sherry.enums;
+package sherry.project114.enums;
 
 public enum PaymentTypeEnum {
     ALIPAY(1,"支付宝"),

@@ -1,4 +1,4 @@
-package sherry.vo.user;
+package sherry.project114.vo.user;
 
 import com.baomidou.mybatisplus.annotation.TableField;
 import io.swagger.annotations.ApiModel;

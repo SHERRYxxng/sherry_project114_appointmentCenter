@@ -1,6 +1,4 @@
-package sherry.model.order;
-
-import sherry.model.base.BaseEntity;
+package sherry.project114.model.order;
 
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableName;
@@ -8,6 +6,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
+import sherry.project114.model.base.BaseEntity;
 
 import java.math.BigDecimal;
 import java.util.Date;

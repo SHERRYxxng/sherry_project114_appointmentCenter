@@ -1,11 +1,8 @@
-package sherry.vo.order;
+package sherry.project114.vo.order;
 
-import sherry.model.base.BaseMongoEntity;
-import com.baomidou.mybatisplus.annotation.TableName;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
-import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.io.Serializable;
 

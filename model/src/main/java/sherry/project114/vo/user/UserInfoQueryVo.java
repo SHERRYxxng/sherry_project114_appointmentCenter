@@ -1,4 +1,4 @@
-package sherry.vo.user;
+package sherry.project114.vo.user;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

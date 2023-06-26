@@ -1,4 +1,4 @@
-package sherry.vo.hosp;
+package sherry.project114.vo.hosp;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

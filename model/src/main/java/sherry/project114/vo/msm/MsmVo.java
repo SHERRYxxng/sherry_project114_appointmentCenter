@@ -1,12 +1,11 @@
-package sherry.vo.msm;
+package sherry.project114.vo.msm;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 
-import java.io.Serializable;
-import java.util.Map;
 import java.util.HashMap;
+import java.util.Map;
 
 @Data
 @ApiModel(description = "短信实体")

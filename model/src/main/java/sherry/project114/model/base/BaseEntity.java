@@ -1,4 +1,4 @@
-package sherry.model.base;
+package sherry.project114.model.base;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;

@@ -1,4 +1,4 @@
-package sherry.project114.service;
+package sherry.project114.hosp.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 import sherry.project114.model.hosp.HospitalSet;

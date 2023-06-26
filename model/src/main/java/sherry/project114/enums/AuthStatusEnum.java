@@ -1,4 +1,4 @@
-package sherry.enums;
+package sherry.project114.enums;
 
 public enum AuthStatusEnum {
 

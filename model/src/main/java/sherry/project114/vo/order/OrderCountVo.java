@@ -1,4 +1,4 @@
-package sherry.vo.order;
+package sherry.project114.vo.order;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

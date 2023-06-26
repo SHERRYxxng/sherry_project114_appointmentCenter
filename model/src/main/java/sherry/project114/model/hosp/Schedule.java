@@ -1,15 +1,12 @@
-package sherry.model.hosp;
+package sherry.project114.model.hosp;
 
-import sherry.model.base.BaseEntity;
-import sherry.model.base.BaseMongoEntity;
-import com.baomidou.mybatisplus.annotation.TableField;
-import com.baomidou.mybatisplus.annotation.TableName;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 import org.springframework.data.mongodb.core.index.Indexed;
 import org.springframework.data.mongodb.core.mapping.Document;
+import sherry.project114.model.base.BaseMongoEntity;
 
 import java.math.BigDecimal;
 import java.util.Date;

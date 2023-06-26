@@ -1,11 +1,9 @@
-package sherry.vo.order;
+package sherry.project114.vo.order;
 
-import sherry.vo.msm.MsmVo;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
-
-import java.util.Date;
+import sherry.project114.vo.msm.MsmVo;
 
 @Data
 @ApiModel(description = "OrderMqVo")

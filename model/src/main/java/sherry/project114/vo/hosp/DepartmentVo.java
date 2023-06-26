@@ -1,7 +1,5 @@
-package sherry.vo.hosp;
+package sherry.project114.vo.hosp;
 
-import sherry.model.hosp.Department;
-import com.baomidou.mybatisplus.annotation.TableField;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package sherry.enums;
+package sherry.project114.enums;
 
 public enum PaymentStatusEnum {
     UNPAID(1,"支付中"),

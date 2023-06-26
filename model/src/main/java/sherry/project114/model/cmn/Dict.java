@@ -1,6 +1,5 @@
-package sherry.model.cmn;
+package sherry.project114.model.cmn;
 
-import sherry.model.base.BaseEntity;
 import com.baomidou.mybatisplus.annotation.*;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import io.swagger.annotations.ApiModel;
